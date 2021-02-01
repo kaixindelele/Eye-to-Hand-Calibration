@@ -18,7 +18,8 @@ Eye-to-Hand Calibration，摄像机固定，与机器人基坐标系相对位置
 
 操作系统：Windows 7 64bit
 
-图像处理工具：OpenCV
+图像处理工具：OpenCV-Python 3.4.* 
+如果安装不上的话，版本是4.* 以上，用estimated2DAffine好像也行，没测试过。
 
 机器人和摄像机：新松SCR5七自由度协作机械臂，海康工业相机MV-CA013-21UC
 
